@@ -48,6 +48,7 @@ MA-CAC Algorithm
 
 Simulation Result
 ---
+* Compared the results of paper, they were the same.
 <div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/figure/sim_NCBP.png" width="350"/>
 <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/figure/sim_HCDP.png" width="300"/>
 </div>
