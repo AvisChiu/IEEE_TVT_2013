@@ -28,5 +28,6 @@ No guard channels for handoff users are allocated to maximally utilize the AP re
 
 Notations
 ---
-<div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/notation.png" width="300"/></div>
-<div align=center> <img src="]https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/notations.png" width="300"/></div>
+<div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/notation.png" width="300"/>
+<img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/notations.png" width="300"/>
+</div>
