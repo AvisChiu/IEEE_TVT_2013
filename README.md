@@ -31,3 +31,7 @@ Notations
 <div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/notation.png" width="440"/>
 <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/notations.png" width="400"/>
 </div>
+
+Markov Chain
+---
+Authors used the Markov Chain to solve this problem. Beacause of the Poisson Process, Markov Chain is a good mothod. What we want to derived are the **Hand-off call dropping probability** and the **New call blocking probability**
