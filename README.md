@@ -38,3 +38,5 @@ Markov Chain
 <div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/markov%20chain.png" width="500"/>
 </div>
 
+* Using **Balance Equation** to derived the transfer probability of each state. It is hard to derived the closed form, so we can use [Iterative algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1343902)
+
