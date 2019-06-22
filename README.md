@@ -40,3 +40,9 @@ Markov Chain
 
 * Using **Balance Equation** to derived the transfer probability of each state. It is hard to derived the closed form, so we can use [Iterative algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1343902)
 
+MA-CAC Algorithm
+---
+* The simulation algorithm was shown as below:  
+<div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/algorithm.png" width="500"/>
+</div>
+
