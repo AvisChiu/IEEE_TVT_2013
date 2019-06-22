@@ -43,6 +43,12 @@ Markov Chain
 MA-CAC Algorithm
 ---
 * The simulation algorithm was shown as below:  
-<div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/algorithm.png" width="500"/>
+<div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/algorithm.png" width="400"/>
+</div>
+
+Simulation Result
+---
+<div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/figure/sim_NCBP.png" width="400"/>
+<img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/figure/sim_HCDP.png" width="400"/>
 </div>
 
