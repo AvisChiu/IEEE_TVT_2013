@@ -10,3 +10,8 @@ Motivation
 * Since the WLAN capacity is shared by multiple vehicular users and session-oriented applications (e.g., VoIP) are sensitive to disconnection/disruption due to handover, a well-defined CAC algorithm should be devised to satisfy QoS requirements in hotspots. 
 * This paper put forward CAC algorithm, to increase the channel utilization.
 
+Mechanism
+---
+It is easy to know the vehicles have two phase: stop and move. The main mechanism is that
+the system will maintain guard channels and a queue for hand-off calls in stop phase. We need
+to note that the events in different phase are different.
