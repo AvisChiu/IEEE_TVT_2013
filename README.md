@@ -15,4 +15,5 @@ Mechanism
 * It is easy to know the vehicles have two phase: stop and move. The main mechanism is that
 the system will maintain guard channels and a queue for hand-off calls in stop phase. We need
 to note that the events in different phase are different.
-![](https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/two%20phase.png)  
+
+<img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/two%20phase.png" width=200, heigh=200>  
