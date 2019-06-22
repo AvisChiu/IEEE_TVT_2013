@@ -26,3 +26,7 @@ In this situation, a handoff priority scheme with guard channels is examined to 
 There are no vehicular handoff users since no one can ride on the moving vehicle.    
 No guard channels for handoff users are allocated to maximally utilize the AP resource. 
 
+Notations
+---
+<div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/notation.png" width="300"/></div>
+<div align=center> <img src="]https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/notations.png" width="300"/></div>
