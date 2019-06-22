@@ -12,6 +12,6 @@ Motivation
 
 Mechanism
 ---
-It is easy to know the vehicles have two phase: stop and move. The main mechanism is that
+* It is easy to know the vehicles have two phase: stop and move. The main mechanism is that
 the system will maintain guard channels and a queue for hand-off calls in stop phase. We need
 to note that the events in different phase are different.
