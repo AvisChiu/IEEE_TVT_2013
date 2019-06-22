@@ -18,7 +18,11 @@ to note that the events in different phase are different.
 
 <div align=center> <img src="https://github.com/AvisChiu/IEEE_TVT_2013/blob/master/paper%20figure/two%20phase.png" width="400"/></div>
 
-* At the stop phase
+* At the stop phase   
 A vehicle stays at a location (e.g., a bus stop or a subway station).   
 Vehicular users can join the AP (i.e., riding on the vehicle).   
 In this situation, a handoff priority scheme with guard channels is examined to protect vehicular handoff users from vehicular new users.   
+* At the moving phase   
+There are no vehicular handoff users since no one can ride on the moving vehicle.    
+No guard channels for handoff users are allocated to maximally utilize the AP resource. 
+
